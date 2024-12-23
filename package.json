@@ -1,6 +1,6 @@
 {
   "name": "@sakthivelm/greeting-package",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Greeting package for the application. during the day.",
   "main": "lib/index.cjs",
   "type": "module",
