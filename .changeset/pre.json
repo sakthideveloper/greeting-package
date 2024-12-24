@@ -5,6 +5,7 @@
     "@sakthivelm/greeting-package": "1.2.1"
   },
   "changesets": [
+    "late-pigs-fly",
     "little-falcons-move"
   ]
 }

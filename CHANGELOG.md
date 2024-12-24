@@ -1,5 +1,11 @@
 # @sakthivelm/greeting-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- 512615a: Added grumpy to the cats array
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
