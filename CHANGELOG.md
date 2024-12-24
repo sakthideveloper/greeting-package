@@ -1,5 +1,11 @@
 # @sakthivelm/greeting-package
 
+## 2.0.3
+
+### Patch Changes
+
+- c8c9e57: Afternoon text modified
+
 ## 2.0.2
 
 ### Patch Changes
