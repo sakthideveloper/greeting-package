@@ -1,5 +1,12 @@
 # @sakthivelm/greeting-package
 
+## 2.0.0
+
+### Major Changes
+
+- 512615a: Added grumpy to the cats array
+- 8c3e20f: created monarch greet morning text
+
 ## 2.0.0-beta.1
 
 ### Major Changes
@@ -17,7 +24,6 @@
 ### Patch Changes
 
 - 04b67b7: Night greet text changed
-
 
 ## 1.2.1
 
