@@ -1,3 +1,10 @@
+const monarchCats = ["Garfield", "Felix", "Grumpy"];
+
 export const morningGreet = (name: string) => {
-  return `Good Morning ${name}`;
+  let greet = "Good morning ";
+  if (monarchCats.includes(name)) {
+    greet = "Good morning, your MAJESTY, ";
+  }
+
+  return `${greet} ${name}`;
 };
