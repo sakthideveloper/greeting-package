@@ -4,5 +4,7 @@
   "initialVersions": {
     "@sakthivelm/greeting-package": "1.2.1"
   },
-  "changesets": []
+  "changesets": [
+    "little-falcons-move"
+  ]
 }
