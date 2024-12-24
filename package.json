@@ -1,5 +1,5 @@
 {
-  "name": "@sakthivelm/greeting-package",
+  "name": "@wedoitz/greeting-package",
   "version": "2.0.0",
   "description": "Greeting package for the application. during the day.",
   "main": "lib/index.cjs",
@@ -23,17 +23,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sakthideveloper/greeting-package.git"
+    "url": "git+https://github.com/wedoitz/greeting-package.git"
   },
   "keywords": [
     "greeting package"
   ],
-  "author": "@sakthideveloper",
+  "author": "@wedoitz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sakthideveloper/greeting-package/issues"
+    "url": "https://github.com/wedoitz/greeting-package/issues"
   },
-  "homepage": "https://github.com/sakthideveloper/greeting-package#readme",
+  "homepage": "https://github.com/wedoitz/greeting-package#readme",
   "devDependencies": {
     "@changesets/cli": "^2.27.11",
     "rollup": "^4.17.2",
