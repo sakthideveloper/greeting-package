@@ -12,6 +12,13 @@
 
 - 8c3e20f: created monarch greet morning text
 
+## 1.2.2
+
+### Patch Changes
+
+- 04b67b7: Night greet text changed
+
+
 ## 1.2.1
 
 ### Patch Changes
