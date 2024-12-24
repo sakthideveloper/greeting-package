@@ -1,5 +1,11 @@
 # @sakthivelm/greeting-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- 8c3e20f: created monarch greet morning text
+
 ## 1.2.1
 
 ### Patch Changes
