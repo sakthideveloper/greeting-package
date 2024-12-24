@@ -1,5 +1,11 @@
 # @sakthivelm/greeting-package
 
+## 2.0.2
+
+### Patch Changes
+
+- ea37f0e: morning fixes
+
 ## 2.0.1
 
 ### Patch Changes
