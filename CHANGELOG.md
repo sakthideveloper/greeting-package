@@ -1,5 +1,11 @@
 # @sakthivelm/greeting-package
 
+## 2.0.4
+
+### Patch Changes
+
+- a1a9ff0: Good afternoon text modification
+
 ## 2.0.3
 
 ### Patch Changes
