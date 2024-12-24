@@ -6,5 +6,5 @@ export const morningGreet = (name: string) => {
     greet = "Good morning, your MAJESTY, ";
   }
 
-  return `${greet} ${name}`;
+  return `${greet} ${name}!`;
 };
