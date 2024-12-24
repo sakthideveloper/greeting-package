@@ -1,5 +1,12 @@
 # @sakthivelm/greeting-package
 
+## 1.2.1
+
+### Patch Changes
+
+- 8fda462: night greet text modified
+- bbff048: removed comma
+
 ## 1.2.0
 
 ### Minor Changes
