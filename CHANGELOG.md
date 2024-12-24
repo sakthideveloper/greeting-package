@@ -1,5 +1,11 @@
 # @sakthivelm/greeting-package
 
+## 2.0.1
+
+### Patch Changes
+
+- 1ee8dd0: added evening greet text
+
 ## 2.0.0
 
 ### Major Changes
